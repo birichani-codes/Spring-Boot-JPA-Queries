@@ -1,9 +1,7 @@
 # Spring-Boot-JPA-Queries
 # Spring Boot JPA Query Methods
 
-This project demonstrates various **Spring Data JPA Query Methods** using the Udemy course: *Build REST APIs using Spring Boot, Spring Security 6, JWT, Spring Data JPA, Hibernate, MySQL, Docker & Deploy on AWS*.
-
-## Course Section: 35 - Spring Data JPA for Beginners
+##  Spring Data JPA
 
 ### Topics Covered:
 - Creating Custom Query Methods from Method Names
